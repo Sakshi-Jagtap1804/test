@@ -1,5 +1,0 @@
-{{#Sakshi-Jagtap1804}}
-Name: Sakshi
-Skills: HTML, CSS, JS, React.js, Git
-Email: sakshijagtap222@gmail.com
-{{/Sakshi-Jagtap1804}}
